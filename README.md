@@ -16,8 +16,6 @@ This project presents a comprehensive comparative study of statistical, machine 
 - Investigate the impact of feature engineering on model accuracy.
 - Assess model robustness under different historical training-window lengths.
 
----
-
 ## Dataset
 
 ### Source
@@ -131,8 +129,6 @@ Feature engineering was found to significantly improve forecasting performance, 
 - PyTorch Forecasting
 - Lightning
 
----
-
 ## Repository Structure
 
 ```text
@@ -145,8 +141,6 @@ Feature engineering was found to significantly improve forecasting performance, 
 ├── README.md
 ```
 
----
-
 ## Applications
 
 This work has direct applications in:
@@ -158,7 +152,6 @@ This work has direct applications in:
 - Energy Management Systems
 - Grid Reliability Enhancement
 
----
 
 ## Thesis Information
 
