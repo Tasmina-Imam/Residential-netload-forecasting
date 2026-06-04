@@ -47,6 +47,15 @@ Accurate net-load forecasting is critical for grid reliability, renewable energy
 - CRPS
 - Pinball Loss
 - Prediction Interval Coverage
+## Results
+
+### TFT Forecast Performance
+
+![TFT Forecast](tft-fe.png)
+
+### Model Performance
+
+![R-Squared Comparison](tft-fe-R_squared.png)
 
 ## Key Findings
 
