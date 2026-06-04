@@ -7,6 +7,11 @@ This project investigates residential net-load forecasting under high penetratio
 ## Research Objective
 
 Accurate net-load forecasting is critical for grid reliability, renewable energy integration, and efficient power system operation. This work evaluates multiple forecasting approaches for day-ahead residential net-load prediction.
+## Methodology
+
+![Methodology Workflow](methodology.png)
+
+**Figure:** Experimental framework used to compare statistical, machine learning, and deep learning models with and without feature engineering.
 
 ## Dataset
 
