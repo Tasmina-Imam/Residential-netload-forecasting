@@ -6,7 +6,7 @@ The increasing adoption of behind-the-meter (BTM) solar photovoltaic systems has
 
 This project presents a comprehensive comparative study of statistical, machine learning, and deep learning approaches for day-ahead residential net-load forecasting. All models were evaluated under a unified experimental framework using identical datasets, preprocessing procedures, feature engineering techniques, and evaluation metrics to ensure a fair comparison.
 
----
+
 
 ## Research Objectives
 
@@ -41,7 +41,7 @@ This project presents a comprehensive comparative study of statistical, machine 
 - Direct Normal Irradiance (DNI)
 - Direct Radiation Instantaneous
 
----
+
 
 ## Forecasting Models
 
@@ -58,7 +58,7 @@ This project presents a comprehensive comparative study of statistical, machine 
 
 - Temporal Fusion Transformer (TFT)
 
----
+
 
 ## Feature Engineering
 
@@ -80,7 +80,6 @@ The following engineered features were incorporated:
 
 Feature engineering was found to significantly improve forecasting performance, particularly for learning-based models.
 
----
 
 ## Evaluation Metrics
 
@@ -98,7 +97,6 @@ Feature engineering was found to significantly improve forecasting performance, 
 - Prediction Interval Coverage Probability (PICP)
 - Prediction Interval Width (PIW)
 
----
 
 ## Results
 
@@ -109,7 +107,7 @@ Feature engineering was found to significantly improve forecasting performance, 
 | Metric | Value |
 |----------|----------|
 | R² | 0.923 |
-| RMSE | 5.82 |
+| RMSE | 5.56 |
 | CRPS | 2.99 |
 
 ### Key Findings
@@ -120,7 +118,6 @@ Feature engineering was found to significantly improve forecasting performance, 
 - Model rankings remained stable across varying training-window lengths.
 - Probabilistic forecasts provided valuable uncertainty quantification for grid operations.
 
----
 
 ## Technologies Used
 
