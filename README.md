@@ -3,7 +3,7 @@
 This project investigates day-ahead residential net-load forecasting under high penetration of behind-the-meter solar photovoltaics.
 # Models
 ARIMAX
-SARIMAX
+/SARIMAX
 Gradient Boosting Regressor
 Temporal Fusion Transformer (TFT)
 # Dataset
