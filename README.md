@@ -6,8 +6,6 @@ The increasing adoption of behind-the-meter (BTM) solar photovoltaic systems has
 
 This project presents a comprehensive comparative study of statistical, machine learning, and deep learning approaches for day-ahead residential net-load forecasting. All models were evaluated under a unified experimental framework using identical datasets, preprocessing procedures, feature engineering techniques, and evaluation metrics to ensure a fair comparison.
 
-
-
 ## Research Objectives
 
 - Develop accurate day-ahead residential net-load forecasting models.
@@ -116,7 +114,6 @@ Feature engineering was found to significantly improve forecasting performance, 
 - Model rankings remained stable across varying training-window lengths.
 - Probabilistic forecasts provided valuable uncertainty quantification for grid operations.
 
-
 ## Technologies Used
 
 - Python
@@ -140,7 +137,6 @@ Feature engineering was found to significantly improve forecasting performance, 
 ├── src/
 ├── README.md
 ```
-
 ## Applications
 
 This work has direct applications in:
@@ -152,24 +148,18 @@ This work has direct applications in:
 - Energy Management Systems
 - Grid Reliability Enhancement
 
-
 ## Thesis Information
 
 **Master of Engineering Science (Electrical Engineering)**
 
 Lamar University
-
 Research Area:
 Power Systems • Renewable Energy • Machine Learning • Forecasting Analytics
-
----
 
 ## Author
 
 **Tasmina Imam**
 
 Electrical Engineer | Power Systems | Renewable Energy | Machine Learning | Data Analytics
-
 LinkedIn: www.linkedin.com/in/tasmina-imam
-
 GitHub: github.com/Tasmina-Imam
